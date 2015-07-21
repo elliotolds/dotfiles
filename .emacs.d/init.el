@@ -27,6 +27,8 @@
 (setq show-trailing-whitespace t)
 (setq suggest-key-bindings t)
 (setq vc-follow-symlinks t)
+(load-theme 'wombat t)
+
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
